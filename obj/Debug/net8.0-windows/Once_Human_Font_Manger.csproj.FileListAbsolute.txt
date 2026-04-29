@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\Once_Human_Font_Manger\bin\Debug\net8.0-windows\Once_Human_Font_Manger.exe
+C:\Users\Administrator\Desktop\Once_Human_Font_Manger\bin\Debug\net8.0-windows\Once_Human_Font_Manger.deps.json
+C:\Users\Administrator\Desktop\Once_Human_Font_Manger\bin\Debug\net8.0-windows\Once_Human_Font_Manger.runtimeconfig.json
+C:\Users\Administrator\Desktop\Once_Human_Font_Manger\bin\Debug\net8.0-windows\Once_Human_Font_Manger.dll
+C:\Users\Administrator\Desktop\Once_Human_Font_Manger\bin\Debug\net8.0-windows\Once_Human_Font_Manger.pdb
+C:\Users\Administrator\Desktop\Once_Human_Font_Manger\obj\Debug\net8.0-windows\OnceHumanFontManager.MainForm.resources
+C:\Users\Administrator\Desktop\Once_Human_Font_Manger\obj\Debug\net8.0-windows\Once_Human_Font_Manger.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Once_Human_Font_Manger\obj\Debug\net8.0-windows\Once_Human_Font_Manger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Once_Human_Font_Manger\obj\Debug\net8.0-windows\Once_Human_Font_Manger.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Once_Human_Font_Manger\obj\Debug\net8.0-windows\Once_Human_Font_Manger.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Once_Human_Font_Manger\obj\Debug\net8.0-windows\Once_Human_Font_Manger.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Once_Human_Font_Manger\obj\Debug\net8.0-windows\Once_Human_Font_Manger.dll
+C:\Users\Administrator\Desktop\Once_Human_Font_Manger\obj\Debug\net8.0-windows\refint\Once_Human_Font_Manger.dll
+C:\Users\Administrator\Desktop\Once_Human_Font_Manger\obj\Debug\net8.0-windows\Once_Human_Font_Manger.pdb
+C:\Users\Administrator\Desktop\Once_Human_Font_Manger\obj\Debug\net8.0-windows\Once_Human_Font_Manger.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Once_Human_Font_Manger\obj\Debug\net8.0-windows\ref\Once_Human_Font_Manger.dll

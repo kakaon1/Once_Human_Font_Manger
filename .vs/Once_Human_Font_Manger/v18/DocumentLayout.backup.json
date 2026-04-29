@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Once_Human_Font_Manger\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59F459CA-AF87-1D08-91C2-4654D64C5389}|Once_Human_Font_Manger.csproj|c:\\users\\administrator\\desktop\\once_human_font_manger\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59F459CA-AF87-1D08-91C2-4654D64C5389}|Once_Human_Font_Manger.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F459CA-AF87-1D08-91C2-4654D64C5389}|Once_Human_Font_Manger.csproj|c:\\users\\administrator\\desktop\\once_human_font_manger\\once_human_font_manger.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{59F459CA-AF87-1D08-91C2-4654D64C5389}|Once_Human_Font_Manger.csproj|solutionrelative:once_human_font_manger.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F459CA-AF87-1D08-91C2-4654D64C5389}|Once_Human_Font_Manger.csproj|c:\\users\\administrator\\desktop\\once_human_font_manger\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59F459CA-AF87-1D08-91C2-4654D64C5389}|Once_Human_Font_Manger.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F459CA-AF87-1D08-91C2-4654D64C5389}|Once_Human_Font_Manger.csproj|c:\\users\\administrator\\desktop\\once_human_font_manger\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59F459CA-AF87-1D08-91C2-4654D64C5389}|Once_Human_Font_Manger.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F459CA-AF87-1D08-91C2-4654D64C5389}|Once_Human_Font_Manger.csproj|c:\\users\\administrator\\desktop\\once_human_font_manger\\mainform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{59F459CA-AF87-1D08-91C2-4654D64C5389}|Once_Human_Font_Manger.csproj|solutionrelative:mainform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Once_Human_Font_Manger",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Once_Human_Font_Manger\\Once_Human_Font_Manger.csproj",
+              "RelativeDocumentMoniker": "Once_Human_Font_Manger.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Once_Human_Font_Manger\\Once_Human_Font_Manger.csproj",
+              "RelativeToolTip": "Once_Human_Font_Manger.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-29T06:35:29.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Once_Human_Font_Manger\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Once_Human_Font_Manger\\MainForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "MainForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T01:39:22.709Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.resx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Once_Human_Font_Manger\\MainForm.resx",
+              "RelativeDocumentMoniker": "MainForm.resx",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Once_Human_Font_Manger\\MainForm.resx",
+              "RelativeToolTip": "MainForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-04-29T01:39:14.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Once_Human_Font_Manger\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Once_Human_Font_Manger\\MainForm.Designer.cs",
+              "RelativeToolTip": "MainForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T01:35:17.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Once_Human_Font_Manger\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Once_Human_Font_Manger\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T01:35:14.294Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
